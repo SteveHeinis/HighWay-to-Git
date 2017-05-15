@@ -1,11 +1,77 @@
 
 body {
+
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
 }
-git 
+git
 body {
   background-color: yellow;
 }
+
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
+}
+
+#menu {
+  width: 125px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 120px;
+  left: 10px;
+}
+
+#menu li {
+background: #c00 ;
+color: #fff ;
+border: 1px solid #600
+margin-bottom: 1 px ;
+text-align: center ;
+background: rgba(100,100,100,.3);
+
+}
+
+.jamesbond {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: auto;
+}
+
+#bloc {
+  margin: auto;
+  width: 20%;
+  background-color: red;
+}
+
+.jamesbond img {
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+}
+
+#youtube {
+  text-align: center;
+  margin-top: 200px;
+  padding: 25px;
+}
+
+#instagram {
+  text-align: center;
+  padding: 25px;
+}
+
+#pinterest {
+  text-align: center;
+  padding: 25px;
+}
+
+
+
+
+
+
                    ..:::::::::::::..
                 .:::::''              ``:::.
               .:;'                        `::.
