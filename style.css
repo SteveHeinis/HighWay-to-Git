@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+h1 {
+  color: red;
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 body {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
@@ -7,6 +11,7 @@ body {
 h1 {
   color: red;
 >>>>>>> 386ebb7b7f0e8633d391f077371ecd8e3be6b4f7
+>>>>>>> ca9144fc2e85128279430e7865d92e56590df348
 }
 =======
 
@@ -19,7 +24,11 @@ body {
 }
 git
 body {
+<<<<<<< HEAD
+  background-color: red;
+=======
   background-color: green;
+>>>>>>> ca9144fc2e85128279430e7865d92e56590df348
 }
 
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
@@ -86,7 +95,13 @@ background: rgba(100,100,100,.3);
 
 
 
+<<<<<<< HEAD
+>>>>>>> c7ce74b1a1258ec0c1fa309adc184e6d3728ed86
+>>>>>>> a5218f4ba41324295c246d2dabd98cd6f5401a60
+>>>>>>> 95a13f846ab05b7cbf722dbf4cc8490826c78ac9
+=======
 
+>>>>>>> ca9144fc2e85128279430e7865d92e56590df348
                    ..:::::::::::::..
                 .:::::''              ``:::.
               .:;'                        `::.
@@ -1420,6 +1435,11 @@ background: rgba(100,100,100,.3);
                     `::::::::::::::::::::'.::;:;'
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> ef0404b3cde2985d1ce192237e593f74014b2d0c
+=======
+>>>>>>> 95a13f846ab05b7cbf722dbf4cc8490826c78ac9
+=======
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 0c3a7ccb755f5b16657e39875d428309c1143e4f
@@ -1432,3 +1452,4 @@ background: rgba(100,100,100,.3);
 =======
 >>>>>>> 95a13f846ab05b7cbf722dbf4cc8490826c78ac9
 >>>>>>> 386ebb7b7f0e8633d391f077371ecd8e3be6b4f7
+>>>>>>> ca9144fc2e85128279430e7865d92e56590df348
