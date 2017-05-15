@@ -1,12 +1,15 @@
 
 body {
+<<<<<<< HEAD
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
   font-family: cursive;
   background-color: yellow;
 }
 h1, h2 {
   color: red;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
 }
+
 
 #menu {
   width: 125px;
