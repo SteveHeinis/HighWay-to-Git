@@ -1,15 +1,94 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 body {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
+=======
+h1 {
+  color: red;
+>>>>>>> 386ebb7b7f0e8633d391f077371ecd8e3be6b4f7
 }
 =======
+
+body {
+<<<<<<< HEAD
+  background-color: green;
 =======
+
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
+}
+git
 body {
   background-color: green;
 }
 
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
+}
+
+#menu {
+  width: 125px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 120px;
+  left: 10px;
+}
+
+#menu li {
+background: #c00 ;
+color: #fff ;
+border: 1px solid #600
+margin-bottom: 1 px ;
+text-align: center ;
+background: rgba(100,100,100,.3);
+
+}
+
+.jamesbond {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: auto;
+>>>>>>> 386ebb7b7f0e8633d391f077371ecd8e3be6b4f7
+}
+
+#bloc {
+  margin: auto;
+  width: 20%;
+  background-color: red;
+}
+
+.jamesbond img {
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+}
+
+#youtube {
+  text-align: center;
+  margin-top: 200px;
+  padding: 25px;
+}
+
+#instagram {
+  text-align: center;
+  padding: 25px;
+}
+
+#pinterest {
+  text-align: center;
+  padding: 25px;
+}
+
+
+
+
+
 >>>>>>> c7ce74b1a1258ec0c1fa309adc184e6d3728ed86
+>>>>>>> a5218f4ba41324295c246d2dabd98cd6f5401a60
+>>>>>>> 95a13f846ab05b7cbf722dbf4cc8490826c78ac9
                    ..:::::::::::::..
                 .:::::''              ``:::.
               .:;'                        `::.
@@ -1342,9 +1421,16 @@ body {
          `::::::::::...:::'  `::.:'`:.::'.:.:;' .:;'
                     `::::::::::::::::::::'.::;:;'
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 0c3a7ccb755f5b16657e39875d428309c1143e4f
 =======
 >>>>>>> c7ce74b1a1258ec0c1fa309adc184e6d3728ed86
 >>>>>>> 60488529b99e19edc7d28060e193bcb1eedfb59c
+=======
+<<<<<<< HEAD
+>>>>>>> ef0404b3cde2985d1ce192237e593f74014b2d0c
+=======
+>>>>>>> 95a13f846ab05b7cbf722dbf4cc8490826c78ac9
+>>>>>>> 386ebb7b7f0e8633d391f077371ecd8e3be6b4f7
