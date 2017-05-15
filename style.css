@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+h1 {
+  color: red;
+}
+=======
 
 body {
 
@@ -5,7 +10,7 @@ body {
 }
 git
 body {
-  background-color: yellow;
+  background-color: red;
 }
 
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d7/42/3b/d7423ba9bb0d22366bf70145680a9b7d.jpg");
@@ -1403,3 +1408,7 @@ background: rgba(100,100,100,.3);
    `::::::.`:. .:. :: `::.:: ::  `::. .:: ::.`:::':.:;'
          `::::::::::...:::'  `::.:'`:.::'.:.:;' .:;'
                     `::::::::::::::::::::'.::;:;'
+<<<<<<< HEAD
+>>>>>>> ef0404b3cde2985d1ce192237e593f74014b2d0c
+=======
+>>>>>>> 95a13f846ab05b7cbf722dbf4cc8490826c78ac9
